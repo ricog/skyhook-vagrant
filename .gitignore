@@ -1,1 +1,6 @@
+# Ignore the skyhook repo
+/skyhook
+
+# Ignore Vagrant created files
 /puphpet/files/dot/ssh/*id_rsa*
+/.vagrant
