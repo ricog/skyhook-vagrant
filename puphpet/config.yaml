@@ -158,6 +158,7 @@ php:
         display_errors: On
         error_reporting: '-1'
         session.save_path: /var/lib/php/session
+        short_open_tag: On
     timezone: America/Chicago
     mod_php: 0
 hhvm:
